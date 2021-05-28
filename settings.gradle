@@ -1,0 +1,2 @@
+rootProject.name = "RelativeLayoutPokemon"
+include ':app'
